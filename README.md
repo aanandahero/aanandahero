@@ -46,11 +46,13 @@
 
 ---
 
+
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ananda%20Thapa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ananda-thapa-56403725a/)
-[![X](https://img.shields.io/badge/X-%40aanandahero-black?style=for-the-badge&logo=twitter)](https://x.com/aanandahero)
-[![Gmail](https://img.shields.io/badge/Gmail-findmrananda%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aanandahero@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aananda%20Sagar%20Thapa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aananda-sagar-thapa-6b9161370/)
+[![X](https://img.shields.io/badge/X-%40aanandahero-black?style=for-the-badge&logo=twitter)](https://x.com/i_am_aananda)
+[![Gmail](https://img.shields.io/badge/Gmail-aanandahero%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:findmrananda@gmail.com)
+
 
 ---
 
