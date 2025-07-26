@@ -2,7 +2,7 @@
 
 🎓 4th year Computer Engineering student  
 💻 Passionate about AI, DevOps, and Full-Stack Development  
-🚀 Currently doing: #60DaysOfDevOps challenge  
+🚀 Currently doing: #60DaysOfLSPP challenge  
 🎸 Also a music composer & tech enthusiast from Ilam, Nepal
 
 ---
@@ -42,7 +42,6 @@
 - MERN Stack
 - DevOps Practices (CI/CD, Docker, GitHub Actions)
 - AI Projects with Python
-- Deployments with Heroku and Render
 
 ---
 
@@ -51,7 +50,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aananda%20Sagar%20Thapa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aananda-sagar-thapa-6b9161370/)
 [![X](https://img.shields.io/badge/X-%40aanandahero-black?style=for-the-badge&logo=twitter)](https://x.com/i_am_aananda)
-[![Gmail](https://img.shields.io/badge/Gmail-aanandahero%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:findmrananda@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-findmrananda%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:findmrananda@gmail.com)
 
 
 ---
