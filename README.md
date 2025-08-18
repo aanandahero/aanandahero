@@ -2,7 +2,6 @@
 
 🎓 4th year Computer Engineering student  
 💻 Passionate about AI, DevOps, and Full-Stack Development  
-🚀 Currently doing: #60DaysOfLSPP challenge  
 🎸 Also a music composer & tech enthusiast from Ilam, Nepal
 
 ---
