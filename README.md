@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔤 [ASL Sign Language Detection]((https://github.com/aanandahero/asl_model_mobilenetv2))  
+- 🔤 [ASL Sign Language Detection](https://github.com/aanandahero/asl_model_mobilenetv2)
 - 🛠️ [InsightGenie](https://github.com/aanandahero/InsightGenie)
 
 ---
