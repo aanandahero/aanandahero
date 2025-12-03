@@ -29,10 +29,8 @@
 
 ## 🚀 Featured Projects
 
-- 🔤 [ASL Sign Language Detection](https://github.com/aanandahero/ASL-detection-py)  
-- 🌱 [KhetiMitra – Smart Farmer Assistant (Idea)](https://github.com/aanandahero)  
-- 📊 [Spam Detection using NLP](https://github.com/aanandahero/spam_detection)  
-- 🛠️ [DevJobs – Flask Job Board](https://github.com/aanandahero/devjobs)
+- 🔤 [ASL Sign Language Detection]((https://github.com/aanandahero/asl_model_mobilenetv2))  
+- 🛠️ [InsightGenie](https://github.com/aanandahero/InsightGenie)
 
 ---
 
