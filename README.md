@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ananda Thapa
+# 👋 Hi, I'm Ananda Sagar Thapa
 
 🎓 4th year Computer Engineering student  
-💻 Passionate about AI, DevOps, and Full-Stack Development  
-🎸 Also a music composer & tech enthusiast from Ilam, Nepal
+💻 Passionate about AI/ML, and Full-Stack Development  
+🎸 Also a music composer & tech enthusiast from Lalitpur, Nepal
 
 ---
 
