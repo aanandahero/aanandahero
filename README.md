@@ -132,8 +132,6 @@ Date:   2025 — present
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aananda_Sagar_Thapa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aananda-sagar-thapa-6b9161370/)
 [![X / Twitter](https://img.shields.io/badge/X-@aanandahero-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_am_aananda)
 [![Gmail](https://img.shields.io/badge/Gmail-findmrananda@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:findmrananda@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aanandahero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanandahero)
-
 </div>
 
 ---
