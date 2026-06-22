@@ -22,29 +22,29 @@
 
 ---
 
-## 🖥️ `cat ./about-me.json`
+##  `cat ./about-me.json`
 
 ```json
 {
   "name": "Ananda Sagar Thapa",
   "alias": "aanandahero",
   "degree": "Computer Engineering — Year 4",
-  "location": "Lalitpur, Nepal 🏔️",
+  "location": "Lalitpur, Nepal ",
   "interests": [
     "Artificial Intelligence & ML",
     "Full-Stack Web Development",
     "DevOps & Cloud Infra",
-    "Music Composition 🎸"
+    "Music Composition "
   ],
   "currently_learning": ["MERN Stack", "Docker + CI/CD", "AI with Python"],
   "available_for": ["Open Source", "Internships", "Collabs"],
-  "quote": "Keep shipping. Keep learning. Keep evolving. 🚀"
+  "quote": "Keep shipping. Keep learning. Keep evolving. "
 }
 ```
 
 ---
 
-## ⚙️ `ls ./tech-stack`
+##  `ls ./tech-stack`
 
 <div align="center">
 
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 `./run stats.sh`
+## `./run stats.sh`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aanandahero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=378ADD&icon_color=7F77DD&text_color=FFFFFF" width="48%" />
@@ -82,13 +82,13 @@
 
 ---
 
-## 🚀 `ls ./projects --featured`
+##  `ls ./projects --featured`
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤟 ASL Sign Language Detection
+###  ASL Sign Language Detection
 > Real-time hand gesture recognition using **MobileNetV2** — bridging the communication gap with computer vision.
 
 [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanandahero/asl_model_mobilenetv2)
@@ -98,7 +98,7 @@
 </td>
 <td width="50%">
 
-### 💡 InsightGenie
+### InsightGenie
 > AI-powered data insights tool — turn raw numbers into actionable intelligence like a genie for your metrics.
 
 [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aanandahero/InsightGenie)
@@ -111,7 +111,7 @@
 
 ---
 
-## 🌱 `git log --currently-learning`
+##  `git log --currently-learning`
 
 ```bash
 commit a3f91c2 (HEAD -> main)
@@ -125,7 +125,7 @@ Date:   2025 — present
 
 ---
 
-## 📡 `./connect.sh`
+##  `./connect.sh`
 
 <div align="center">
 
