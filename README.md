@@ -12,7 +12,7 @@
 
 ### `whoami` → **Ananda Sagar Thapa**
 
-*4th-yr Computer Engineering · AI/ML × Full-Stack Dev · Music Composer · Lalitpur, Nepal 🇳🇵*
+*Computer Engineering Graduate · AI/ML × Full-Stack Dev · Music Composer ·
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=800&color=378ADD&center=true&vCenter=true&width=500&lines=Building+AI+that+actually+ships.;MERN+%7C+Docker+%7C+CI%2FCD+learner.;Computer+Engineer+%40+Year+4.;Music+composer+%F0%9F%8E%B8+by+night.;Keep+shipping.+Keep+evolving.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -141,11 +141,10 @@ Date:   2025 — present
 <div align="center">
 
 ```
-> "Keep shipping. Keep learning. Keep evolving." 🚀
+> "Keep grinding." 
 > — Ananda Sagar Thapa
 ```
 
-*Made with ❤️ from Lalitpur, Nepal*
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=80&section=footer)
 
